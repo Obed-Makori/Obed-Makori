@@ -1,10 +1,21 @@
 ### Hi there 👋
-I am Makori Obed, an integrated lerner in the fried of machine learning. I am a pasionate data entusiast dedicated to serve to the best.
+## About Me
+I am Makori Obed, a fervid learner in the field of machine learning. I am a pasionate data enthusiast dedicated to serve to the best.
+### Proffession
 
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+Bachelor of Science in Industrial Mathematics.
+
+### My Objectives:
+    •  To perform detailed research in data world and generate more insights for data. 
+    •  Transform data into information using data science and engineering skills.
+    
+
+    
+
+
+
+
+
 
 
 <!--
