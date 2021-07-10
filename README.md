@@ -1,7 +1,10 @@
 ### Hi there 👋
 ## About Me
 I am Makori Obed, a fervid learner in the field of machine learning. I am a pasionate data enthusiast dedicated to serve to the best.
-### Proffession
+### Profession
+
+Data Analyst/ ML Engineer
+### Career
 
 Bachelor of Science in Industrial Mathematics.
 
