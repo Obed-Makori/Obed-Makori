@@ -41,9 +41,10 @@ Bachelor of Science in Industrial Mathematics.
 - 🔭 I’m currently working on my Deep Learning skills
 - 🌱 I’m currently learning Deep learning  ...
 - 👯 I’m looking to collaborate on data Projects
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help in the engineering and IoT fields
 - 💬 Ask me about Data 
-                    
+-  technology passionate..👩‍💻 🧑‍💻 👨‍💻
+                  
 -  📫 reach me on: 
 -  
    • <a href="https://twitter.com/ObedMakori254" target="_blank">Twitter</a>
@@ -54,7 +55,7 @@ Bachelor of Science in Industrial Mathematics.
 
 
 
-- ⚡ Fun fact:null
+- ⚡ Fun fact:if x is independent variable and y is the dependent variable....then am probably the y, and data is my x 😝 😜 🤪
     
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Obed-Makori&&theme=dracula" alt="eObed-Makori" /></p>
