@@ -55,7 +55,7 @@ Bachelor of Science in Industrial Mathematics.
 
 
 
-- ⚡ Fun fact:if x is independent variable and y is the dependent variable....then am probably the y, and data is my x 😝 😜 🤪
+- ⚡ Fun fact:if x is the independent variable, and y is the dependent variable....then am probably the y, and data is my x 😝 😜 🤪
     
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Obed-Makori&&theme=dracula" alt="eObed-Makori" /></p>
