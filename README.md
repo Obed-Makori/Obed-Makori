@@ -39,7 +39,7 @@ Bachelor of Science in Industrial Mathematics.
 ## summary
 
 - 🔭 I’m currently working on my Deep Learning skills
-- 🌱 I’m currently learning Deep learning  ...
+- 🌱 I’m currently learning OpenCV
 - 👯 I’m looking to collaborate on data Projects
 - 🤔 I’m looking for help in the engineering and IoT fields
 - 💬 Ask me about Data 
