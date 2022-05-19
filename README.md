@@ -1,6 +1,9 @@
 ### Hi there 👋
 ## About Me
-I am Makori Obed, a fervid learner in the field of machine learning. I am a pasionate data enthusiast dedicated to serve to the best.
+I am Makori Obed, a fervid learner and a professional data scientist. I have a wide range of experience working with data, from cleaning and wrangling to modeling and analyzing. I am also experienced in using a variety of tools and programming languages to work with data, including  Python, and SQL. In addition to my technical skills, I also have strong communication and presentation skills, which are essential for conveying complex data concepts to non-technical audiences.
+
+As a data scientist, my goal is to extract valuable insights from data that can be used to improve decision making. I approach data science projects by first understanding the business problem that needs to be solved, and then designing and executing a data-driven solution. I am experienced in both supervised and unsupervised learning techniques, and I am always looking for new ways to improve my skills.
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Obed-Makori&show_icons=true&theme=dracula&locale=en" alt="Obed-Makori" /></p>
 
 ### Profession
