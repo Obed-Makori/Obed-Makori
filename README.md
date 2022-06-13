@@ -1,8 +1,11 @@
 ### Hi there 👋
 ## About Me
-I am Makori Obed, a fervid learner and a professional data scientist. I have a wide range of experience working with data, from cleaning and wrangling to modeling and analyzing. I am also experienced in using a variety of tools and programming languages to work with data, including  Python, and SQL. In addition to my technical skills, I also have strong communication and presentation skills, which are essential for conveying complex data concepts to non-technical audiences.
 
-As a data scientist, my goal is to extract valuable insights from data that can be used to improve decision making. I approach data science projects by first understanding the business problem that needs to be solved, and then designing and executing a data-driven solution. I am experienced in both supervised and unsupervised learning techniques, and I am always looking for new ways to improve my skills.
+I am a data scientist. I have a strong background in mathematics and computer science, and I use these skills to analyze and interpret data. I use data to answer questions and solve problems.
+
+I am skilled at finding patterns and relationships in data, and I use this knowledge to make predictions and recommendations. I am also experienced in communicating my findings to others, in both written and verbal form.
+
+I am constantly learning new techniques and methods to improve my data analysis skills. I am also always looking for new and interesting data sets to work with.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Obed-Makori&show_icons=true&theme=dracula&locale=en" alt="Obed-Makori" /></p>
 
