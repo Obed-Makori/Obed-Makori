@@ -11,7 +11,7 @@ I am constantly learning new techniques and methods to improve my data analysis 
 
 ### Profession
 
-Data Analyst/ ML Engineer
+Data Scientist | ML Engineer
 
 ### Career
 
