@@ -1,25 +1,25 @@
 ### Hi there 👋
 ## About Me
 
-I am a data scientist. I have a strong background in mathematics and computer science, and I use these skills to analyze and interpret data. I use data to answer questions and solve problems.
+I am a data Analyst | Data Scientist. I have a strong background in mathematics and computer science, and I use these skills to analyze and interpret data. I use data to answer questions and solve problems.
 
 I am skilled at finding patterns and relationships in data, and I use this knowledge to make predictions and recommendations. I am also experienced in communicating my findings to others, in both written and verbal form.
 
-I am constantly learning new techniques and methods to improve my data analysis skills. I am also always looking for new and interesting data sets to work with.
+I am constantly learning new techniques and methods to improve my data engineering skills. I am also always looking for new and interesting data sets to work with.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Obed-Makori&show_icons=true&theme=dracula&locale=en" alt="Obed-Makori" /></p>
 
 ### Profession
 
-Data Scientist | ML Engineer
+Data Science and Analytics
 
 ### Career
 
-Bachelor of Science in Industrial Mathematics.
+Industrial Mathematics.
 
 ### My Objectives:
-    •  To perform detailed research in data world and generate more insights for data. 
-    •  Transform data into information using data science and engineering skills.
+    •  To perform detailed research in the data world to create more data-based solutions. 
+    •  Transform data into an asset using data science and engineering skills.
 
 
 ## Languages and Frameworks
@@ -41,19 +41,24 @@ Bachelor of Science in Industrial Mathematics.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Makori&layout=compact&theme=dracula)](https://github.com/Obed-Makori/github-readme-stats)
+### Hobby
+Basketball🏀🏀
 
 ## summary
 
 - 🔭 I’m currently working on my Deep Learning skills
 - ✍️✍️✍️Available for project collaboration.🦾🦾🦾🦾
-- 🌱 I’m currently learning OpenCV
+- 🌱 I’m currently learning Data Modelling
 - 👯 I’m looking to collaborate on data Projects
 - 🤔 I’m looking for help in the engineering and IoT fields
+- Looking for a Remote Role in Data Analytics/BI
 - 💬 Ask me about Data 
 -  technology passionate..👩‍💻 🧑‍💻 👨‍💻
                   
 -  📫 reach me on: 
--  
+
+   • <a href="https://obed-makori.github.io/" target="_blank">My Website</a>
+
    • <a href="https://twitter.com/ObedMakori254" target="_blank">Twitter</a>
    
    • <a href="linkedin.com/in/obed-makori-88b0831a3" target="_blank">LinkedIn</a>.
@@ -62,7 +67,7 @@ Bachelor of Science in Industrial Mathematics.
 
 
 
-- ⚡ Fun fact:if x is the independent variable, and y is the dependent variable....then am probably the y, and data is my x 😝 😜 🤪
+- ⚡ Fun fact: As a data analyst and a basketballer, I love using pivots😊
     
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Obed-Makori&&theme=dracula" alt="eObed-Makori" /></p>
