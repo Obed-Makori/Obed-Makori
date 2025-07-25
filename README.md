@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## About Me
 
-I am a data Analyst | Data Scientist. I have a strong background in mathematics and computer science, and I use these skills to analyze and interpret data. I use data to answer questions and solve problems.
+Hey! 
+My name is Obed Makori. I am a professional data developer with experience in data science and analysis. I have a strong background in mathematics and computer science, and I use these skills to analyze and interpret data. 
 
 I am skilled at finding patterns and relationships in data, and I use this knowledge to make predictions and recommendations. I am also experienced in communicating my findings to others, in both written and verbal form.
 
@@ -48,7 +49,7 @@ Basketball🏀🏀
 
 - 🔭 I’m currently working on my Deep Learning skills
 - ✍️✍️✍️Available for project collaboration.🦾🦾🦾🦾
-- 🌱 I’m currently learning Data Modelling
+- 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on data Projects
 - 🤔 I’m looking for help in the engineering and IoT fields
 - Looking for a Remote Role in Data Analytics/BI
