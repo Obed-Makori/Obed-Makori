@@ -14,10 +14,6 @@ I am constantly learning new techniques and methods to improve my data engineeri
 
 Data Science and Analytics
 
-### Career
-
-Industrial Mathematics.
-
 ### My Objectives:
     •  To perform detailed research in the data world to create more data-based solutions. 
     •  Transform data into an asset using data science and engineering skills.
