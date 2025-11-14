@@ -54,7 +54,7 @@ Basketball🏀🏀
                   
 -  📫 reach me on: 
 
-   • <a href="https://obed-makori.github.io/" target="_blank">My Website</a>
+   • <a href="https://www.obedmk.me/" target="_blank">My Portfolio</a>
 
    • <a href="https://twitter.com/ObedMakori254" target="_blank">Twitter</a>
    
