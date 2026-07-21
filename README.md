@@ -2,17 +2,15 @@
 ## About Me
 
 Hey! 
-My name is Obed Makori. I am a professional data developer with experience in data science and analysis. I have a strong background in mathematics and computer science, and I use these skills to analyze and interpret data. 
+My name is Obed Makori. I am a professional data developer with experience in data engineering and analysis. I have a strong background in mathematics and computer science, and I use these skills to analyze and interpret data. 
 
 I am skilled at finding patterns and relationships in data, and I use this knowledge to make predictions and recommendations. I am also experienced in communicating my findings to others, in both written and verbal form.
 
-I am constantly learning new techniques and methods to improve my data engineering skills. I am also always looking for new and interesting data sets to work with.
+I am constantly learning new techniques and methods to improve my data  skills. I am also always looking for new and interesting data sets to work with.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Obed-Makori&show_icons=true&theme=dracula&locale=en" alt="Obed-Makori" /></p>
 
-### Profession
 
-Analytics Engineering 
 
 ### My Objectives:
     •  To perform detailed research in the data world to create more data-based solutions. 
